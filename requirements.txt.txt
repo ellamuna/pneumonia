@@ -1,7 +1,0 @@
-numpy
-pandas
-streamlit
-pip
-scikit-learn
-plotly
-streamlit_option_menu
